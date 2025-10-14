@@ -157,8 +157,8 @@ NEXT_PUBLIC_API_URL=your-api-url
 ## Support
 
 For questions or issues, please contact:
-- Email: hello@celebrateevents.com
-- Phone: +1 (234) 567-890
+- Email: ihab-hachem@outlook.com
+- Phone: +961 (70) 871-687
 
 ## License
 
@@ -166,4 +166,4 @@ This project is ready for commercial use. Customize it for your business needs.
 
 ---
 
-Built with ❤️ using v0.app
+Built with ❤️

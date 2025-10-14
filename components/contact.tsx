@@ -53,8 +53,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Phone</h3>
-                    <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                      +1 (234) 567-890
+                    <a href="tel:+96171707665" className="text-muted-foreground hover:text-primary transition-colors">
+                      +961 (71) 707-665
                     </a>
                   </div>
                 </div>
@@ -70,10 +70,10 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Email</h3>
                     <a
-                      href="mailto:hello@celebrateevents.com"
+                      href="mailto:jerdyriwa@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      hello@celebrateevents.com
+                      jerdyriwa@gmail.com
                     </a>
                   </div>
                 </div>
@@ -89,9 +89,9 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Location</h3>
                     <p className="text-muted-foreground">
-                      123 Celebration Avenue
+                      Lebanon, Bekaa
                       <br />
-                      New York, NY 10001
+                      Zahle
                     </p>
                   </div>
                 </div>
@@ -102,7 +102,7 @@ export default function Contact() {
               <h3 className="font-semibold text-lg mb-4">Follow Us</h3>
               <div className="flex gap-4">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/sky.danceentertainment?igsh=bGp4dXB5Z2lxdm56"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-lg bg-muted hover:bg-primary/10 flex items-center justify-center transition-colors group"
@@ -175,7 +175,7 @@ export default function Contact() {
                     type="tel"
                     value={formData.phone}
                     onChange={handleChange}
-                    placeholder="+1 (234) 567-890"
+                    placeholder="+961 (70) 123-456"
                     className="w-full"
                   />
                 </div>

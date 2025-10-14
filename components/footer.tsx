@@ -41,16 +41,16 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold text-lg mb-4">Get in Touch</h4>
             <ul className="space-y-2 text-background/80">
-              <li>123 Celebration Avenue</li>
-              <li>New York, NY 10001</li>
+              <li>Lebanon, Bekaa</li>
+              <li>Zahle</li>
               <li>
-                <a href="tel:+1234567890" className="hover:text-background transition-colors">
-                  +1 (234) 567-890
+                <a href="tel:+96171707665" className="hover:text-background transition-colors">
+                  +961 (71) 707-665
                 </a>
               </li>
               <li>
-                <a href="mailto:hello@celebrateevents.com" className="hover:text-background transition-colors">
-                  hello@celebrateevents.com
+                <a href="mailto:jerdyriwa@gmail.com" className="hover:text-background transition-colors">
+                jerdyriwa@gmail.com
                 </a>
               </li>
             </ul>
