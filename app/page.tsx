@@ -131,7 +131,7 @@ export default function Home() {
               <CardContent className="p-0">
                 <div className="relative aspect-video">
                   <Image
-                    src="/outdoor-wedding-reception-with-string-lights-at-su.jpg"
+                    src="./public/outdoor-wedding-reception-with-string-lights-at-su.jpg"
                     alt="Wedding Planning Services - SkyDance Entertainment"
                     fill
                     className="object-cover"
