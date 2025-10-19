@@ -124,8 +124,31 @@ export default function Home() {
             </Card>
           </div>
 
-          {/* Featured Event Image */}
-          <div className="max-w-4xl mx-auto">
+          {/* Featured Event Images */}
+          <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+            {/* Wedding Service Card */}
+            <Card className="overflow-hidden border-purple-200">
+              <CardContent className="p-0">
+                <div className="relative aspect-video">
+                  <Image
+                    src="/elegant-wedding-ceremony-with-bride-and-groom--rom.jpg"
+                    alt="Wedding Planning Services - SkyDance Entertainment"
+                    fill
+                    className="object-cover"
+                  />
+                </div>
+                <div className="p-6 bg-gradient-to-r from-purple-50 to-pink-50">
+                  <h3 className="text-2xl font-bold mb-2">Wedding Planning</h3>
+                  <p className="text-gray-700">
+                    We create dream weddings with elegant coordination, beautiful decorations, and unforgettable
+                    entertainment. From intimate ceremonies to grand celebrations, we handle every detail with care and
+                    professionalism.
+                  </p>
+                </div>
+              </CardContent>
+            </Card>
+
+            {/* Christmas Event Card */}
             <Card className="overflow-hidden border-purple-200">
               <CardContent className="p-0">
                 <div className="relative aspect-video">
